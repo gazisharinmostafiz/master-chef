@@ -43,7 +43,7 @@ body{
 .about-section{
     display: flex;
     margin-bottom: 20px;
-    background-image: url(img/7.png);
+    background-image: url('https://raw.githubusercontent.com/gazisharinmostafiz/master-chef/main/img/7.png');
     background-repeat: no-repeat;
 
 }
